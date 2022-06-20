@@ -1,0 +1,5 @@
+# Directory when located all plugin
+plugins/
+
+# Directory when located executable binary
+bin/
